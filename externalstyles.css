@@ -1,0 +1,35 @@
+
+
+img		{border-color: transparent;}
+
+table	{width: 65%;
+		margin-left: auto; 
+		margin-right: auto;
+		border-color: #545859;
+		border-style: ridge;
+		border-width: 10px;}
+		
+	
+	.menu	{text-align: center;
+			width: 60%;}
+
+	.menuicon {width: 15%;}
+
+	.menupipe {width: 1%;}
+
+th		{color: rgb(255, 255, 255); 
+		background-color: #757775;}
+
+tr.stripe	{background-color: #c3c3b9;}
+
+
+	 
+td.bolder	{font-weight: bold;}
+
+caption	{caption-side: bottom;
+		font-style: italic;}
+
+		body {
+			background-color: #333333;
+			color: #ffffff;
+		  }
